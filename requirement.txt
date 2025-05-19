@@ -1,0 +1,7 @@
+MedPredict/
+│
+├── medpredict.py           # Main script with model training and prediction
+├── dataset.csv             # Sample/simulated patient dataset
+├── requirements.txt        # All dependencies
+├── dashboard.py (optional) # Streamlit-based visualization dashboard
+└── README.md               # This file

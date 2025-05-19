@@ -1,0 +1,11 @@
+age,num_prev_admissions,length_of_stay,comorbidity_score,has_diabetes,has_hypertension,readmitted
+65,1,7,5,1,1,1
+72,2,4,6,1,0,1
+45,0,3,2,0,0,0
+58,1,6,3,1,1,0
+80,3,10,7,1,1,1
+34,0,2,1,0,0,0
+76,4,12,9,1,1,1
+49,1,5,4,0,1,0
+67,2,8,6,1,1,1
+55,0,4,3,0,0,0
